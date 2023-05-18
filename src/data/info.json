@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Talking",
+        "by": "Arapu Trevor",
+        "content": "Talking refers to the act of vocalizing words and sounds to communicate ideas, thoughts, and emotions with others. It is a fundamental form of human interaction and plays a crucial role in socialization, sharing information, expressing feelings, and building relationships. Talking encompasses spoken language, intonation, gestures, and non-verbal cues, facilitating effective communication and understanding among individuals.",
+        "image": "/src/images/talk.jpg"
+    },
+    {
+        "name": "Laughing",
+        "by": "Arapu Trevor",
+        "content": "Laughing is a universal expression of joy, amusement, or mirth exhibited by humans. It involves making sounds and facial expressions that reflect positive emotions. Laughing is not only a social bonding mechanism but also provides numerous health benefits, such as stress reduction, increased oxygen intake, and the release of endorphins, which contribute to a sense of happiness and well-being.",
+        "image": "/src/images/laugh.jpg"
+    },
+    {
+        "name": "Jumping",
+        "by": "Arapu Trevor",
+        "content": "Jumping is a motion where humans momentarily separate themselves from the ground by propelling their bodies upward using their leg muscles. It is an instinctive action that allows individuals to overcome obstacles, reach higher places, or express excitement and joy. Jumping also serves as a recreational activity and a component of various sports.",
+        "image": "/src/images/jump.jpg"
+    },
+    {
+        "name": "Eating",
+        "by": "Arapu Trevor",
+        "content": "Eating is a fundamental action that humans engage in to nourish their bodies and provide essential nutrients. It involves the intake of food through the mouth, followed by chewing and swallowing, allowing the body to obtain energy and sustain its various physiological functions.",
+        "image": "/src/images/eat.jpg"
+    },
+    {
+        "name": "Running",
+        "by": "Arapu Trevor",
+        "content": "Running is a physical activity where humans move rapidly by propelling themselves off the ground with the help of their legs. It is a form of aerobic exercise that not only helps maintain cardiovascular health but also strengthens muscles, improves endurance, and releases endorphins, promoting a sense of well-being.",
+        "image": "/src/images/run.jpg"
+    }
+]
